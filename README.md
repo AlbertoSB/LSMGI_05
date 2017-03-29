@@ -14,7 +14,9 @@ En esta tarea nuevamente he tenido muchos problemas usando Javascript, tanto es 
  ```
 
 Lo único que puedo entregar es la parte de XSL con su respectivo XML. 
-Aquí puede verse la tabla formateada: http://rawgit.com/AlbertoSB/LSMGI_05/master/questions.xml 
+Aquí puede verse la tabla formateada: http://rawgit.com/AlbertoSB/LSMGI_05/master/questions.xml   
+
+Llegados a este punto, no tengo muy claro que pueda entregar algo en el proyecto final, pero se intentará.
 
 
 > Durante el mes transcurrido entre la entrega de la anterior tarea y esta he estado mirando cosas sobre Javascript, y haciendo algunas actividades iniciales, todo de un nivel muy básico y aunque ahora entiendo algunas cosas, me sigo perdiendo en el código de estas tareas, lo encuentro demasiado complejo para alguien que no había usado nunca ese lenguaje.
