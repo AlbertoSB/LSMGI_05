@@ -13,6 +13,7 @@ En esta tarea nuevamente he tenido muchos problemas usando Javascript, tanto es 
  respuestaSelect=parseInt(xmlDoc.getElementsByTagName("answer")[0].innerHTML);
  ```
 
-Lo único que puedo entregar es la parte de XSL con su respectivo XML.  
+Lo único que puedo entregar es la parte de XSL con su respectivo XML. 
+Aquí puede verse la tabla formateada: http://rawgit.com/AlbertoSB/LSMGI_05/master/questions.xml 
 
 >Durante el mes transcurrido entre la entrega de la anterior tarea y esta he estado viendo algún tutorial sobre Javascript, y haciendo algunas actividades iniciales, todo de un nivel muy básico (que es lo que necesito en este momento para comprender algo) y aunque ahora entiendo algunas cosas, me sigo perdiendo en el código de estas tareas, lo encuentro demasiado complejo para alguien que no había usado nunca con ese lenguaje.
