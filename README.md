@@ -19,4 +19,4 @@ Aquí puede verse la tabla formateada: http://rawgit.com/AlbertoSB/LSMGI_05/mast
 Llegados a este punto, no tengo muy claro que pueda entregar algo en el proyecto final, pero se intentará.
 
 
-> Durante el mes transcurrido entre la entrega de la anterior tarea y esta he estado mirando cosas sobre Javascript, y haciendo algunas actividades iniciales, todo de un nivel muy básico y aunque ahora entiendo algunas cosas, me sigo perdiendo en el código de estas tareas, lo encuentro demasiado complejo para alguien que no había usado nunca ese lenguaje.
+> Durante el mes transcurrido entre la entrega de la anterior tarea y esta he estado mirando cosas sobre Javascript y haciendo algunas actividades iniciales, todo de un nivel muy básico y aunque ahora entiendo algunas cosas, me sigo perdiendo en el código de estas tareas, lo encuentro demasiado complejo para alguien que no había usado nunca ese lenguaje.
