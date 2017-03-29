@@ -1,6 +1,8 @@
 # LSMGI_05
 
-En esta tarea nuevamente he tenido muchos problemas usando Javascript, tanto es así que no he conseguido hacer funcionar X-Path. Podía extraer los enunciados del documento xml, pero no aparecían las respuestas utilizando para una pregunta tipo SELECT:
+En esta tarea nuevamente he tenido muchos problemas usando Javascript, tanto es así que no he conseguido hacer funcionar X-Path.   
+
+Por ejemplo, para una pregunta tipo SELECT podía extraer los enunciados del documento xml, pero no aparecían las respuestas utilizando:
 
 ```js
  //SELECT
