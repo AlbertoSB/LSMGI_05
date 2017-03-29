@@ -2,7 +2,7 @@
 
 En esta tarea nuevamente he tenido muchos problemas usando Javascript, tanto es así que no he conseguido hacer funcionar X-Path.   
 
-Por ejemplo, para una pregunta tipo SELECT podía extraer los enunciados del documento xml, pero no aparecían las respuestas utilizando:
+Por ejemplo, para una pregunta tipo SELECT podía extraer los enunciados del documento xml, pero no aparecían las respuestas utilizando el código de la aplicación de ejemplo:
 
 ```js
  //SELECT
@@ -16,7 +16,9 @@ Por ejemplo, para una pregunta tipo SELECT podía extraer los enunciados del doc
  ```
 
 Lo único que puedo entregar es la parte de XSL con su respectivo XML. 
-Aquí puede verse la tabla formateada: http://rawgit.com/AlbertoSB/LSMGI_05/master/questions.xml   
+Aquí pueden verse las tablas formateadas:
+- http://rawgit.com/AlbertoSB/LSMGI_05/master/questions.xml   
+- http://rawgit.com/AlbertoSB/LSMGI_05/master/questions2.xml
 
 Llegados a este punto, no tengo muy claro que pueda entregar algo en el proyecto final, pero se intentará.
 
