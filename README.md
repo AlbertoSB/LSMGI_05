@@ -2,7 +2,7 @@
 
 En esta tarea nuevamente he tenido muchos problemas usando Javascript, tanto es así que no he conseguido que leyera el XML usando X-Path, por lo tanto de esa parte realmente no puedo entregar nada utilizable. 
 
-Por ejemplo, para una pregunta tipo SELECT podía extraer los enunciados del documento xml, pero no aparecían las opciones de respuesta utilizando el código de la aplicación de ejemplo modificando el id:
+Por ejemplo, para una pregunta tipo SELECT podía extraer los enunciados del documento xml, pero no aparecían las opciones de respuesta utilizando el código de la aplicación de ejemplo y modificando el id:
 
 ```js
  //SELECT
