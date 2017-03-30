@@ -15,7 +15,7 @@ Por ejemplo, para una pregunta tipo SELECT podía extraer los enunciados del doc
  respuestaSelect=parseInt(xmlDoc.getElementsByTagName("answer")[0].innerHTML);
  ```
 
-Lo único que puedo entregar es la parte de XSL con su respectivo XML. 
+Lo único que puedo entregar es la parte de XSLT con su respectivo XML. 
 Aquí pueden verse las tablas formateadas:
 - http://rawgit.com/AlbertoSB/LSMGI_05/master/questions.xml   
 - http://rawgit.com/AlbertoSB/LSMGI_05/master/questions2.xml  
