@@ -8,7 +8,11 @@
 <style rel="stylesheet" type="text/css">
 body {font-family:arial;font-size:15px}
 table{width:100%;border:1px solid}
-th{background-color:#1b344b;color:#ffffff;padding:10px}
+th{background: -webkit-linear-gradient(left top, #000d1a , #0066cc); /* For Safari 5.1 to 6.0 */
+background: -o-linear-gradient(bottom right, #000d1a, #0066cc); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(bottom right, #000d1a, #0066cc); /* For Firefox 3.6 to 15 */
+background: linear-gradient(to bottom right, #000d1a , #0066cc); /* Standard syntax */
+color:#ffffff;padding:10px}
 td,tr{border:1px solid;padding:2px;vertical-align:top;background-color:#dae6f1}
 span{color:green;padding-left:5px}
 #x{color:red}
