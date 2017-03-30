@@ -1,8 +1,8 @@
 # LSMGI_05
 
-En esta tarea nuevamente he tenido muchos problemas usando Javascript, tanto es así que no he conseguido hacer funcionar X-Path.   
+En esta tarea nuevamente he tenido muchos problemas usando Javascript, tanto es así que no he conseguido que leyera el XML usando X-Path. 
 
-Por ejemplo, para una pregunta tipo SELECT podía extraer los enunciados del documento xml, pero no aparecían las respuestas utilizando el código de la aplicación de ejemplo:
+Por ejemplo, para una pregunta tipo SELECT podía extraer los enunciados del documento xml, pero no aparecían las opciones de respuesta utilizando el código de la aplicación de ejemplo modificando el id:
 
 ```js
  //SELECT
@@ -23,4 +23,4 @@ Aquí pueden verse las tablas formateadas:
 
 Llegados a este punto, no tengo muy claro que pueda entregar algo en el proyecto final, pero se intentará.   
 
-> Durante el mes transcurrido entre la entrega de la anterior tarea y esta he estado mirando cosas sobre Javascript y haciendo algunas actividades iniciales, todo de un nivel muy básico y aunque ahora entiendo algunas cosas, me sigo perdiendo en el código de estas tareas, lo encuentro demasiado complejo para alguien que no había usado nunca ese lenguaje.
+> Durante el tiempo transcurrido entre la entrega de la anterior tarea y esta he estado mirando cosas sobre Javascript y haciendo algunas actividades iniciales, todo de un nivel muy básico y aunque ahora entiendo algunas cosas, me sigo perdiendo en el código de estas tareas, lo encuentro demasiado complejo para alguien que no había usado nunca ese lenguaje.
