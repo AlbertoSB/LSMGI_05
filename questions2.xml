@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform2.xsl"?>
+
+<questions>
+
+<question id="q_001">
+<type>select</type>
+<title>1.- ¿Cuál es el orden correcto de la jerarquía de las necesidades de Maslow, empezando por la necesidad más básica?</title>
+<option>a) Fisiológicas, seguridad, ego o autoestima, afiliación y autorrealización.</option>
+<option>b) Existencia, relación y crecimiento.</option>
+<option>c) Crecimiento, existencia y relación.</option>
+<option>d) Seguridad, fisiológicas, afiliación, ego o autoestima y autorrealización.</option>
+<option>e) Fisiológicas, seguridad, afiliación, ego o autoestima y autorrealización.</option>
+<answer>5</answer>
+</question>
+
+<question id="q_002">
+<type>select</type>
+<title>2.- ¿Qué tipo de técnica es básica en la evaluación conductual?</title>
+<option>a) Las listas de adjetivos.</option>
+<option>b) La observación directa.</option>
+<option>c) Los autoinformes de personalidad.</option>
+<option>d) Las técnicas proyectivas.</option>
+<option>e) Los autoinformes de variables clínicas.</option>
+<answer>2</answer>
+</question>
+
+<question id="q_003">
+<type>multiple</type>
+<title>3.- ¿Cuáles de los siguientes trastornos de la personalidad estarían dentro del Grupo B (trastornos dramáticos, emocionales o erráticos)?</title>
+<option>a) Trastorno límite de la personalidad.</option>
+<option>b) Trastorno esquizoide de la personalidad.</option>
+<option>c) Trastorno obsesivo-compulsivo de la personalidad.</option>
+<option>d) Trastorno histriónico de la personalidad.</option>
+<option>e) Trastorno narcisista de la personalidad.</option>
+<option>f) Trastorno de la personalidad por evitación.</option>
+<option>g) Trastorno paranoide de la personalidad.</option>
+<answer>1</answer>
+<answer>4</answer>
+<answer>5</answer>
+</question>
+
+<question id="q_004">
+<type>multiple</type>
+<title>4.- ¿Cuáles de las siguientes son partes de una neurona? </title>
+<option>a) Sarcómero.</option>
+<option>b) Núcleo.</option>
+<option>c) Dendritas.</option>
+<option>d) Axón.</option>
+<option>e) Cilios.</option>
+<answer>2</answer>
+<answer>3</answer>
+<answer>4</answer>
+</question>
+
+<question id="q_005">
+<type>text</type>
+<title>5.- La _______ es una aproximación intercelular especializada entre neuronas. En estos contactos se lleva a cabo la transmisión del impulso nervioso.</title>
+<answer>sinapsis</answer>
+</question>
+
+<question id="q_006">
+<type>text</type>
+<title>6.- El _______ es el fármaco más adecuado para el tratamiento de mantenimiento del trastorno bipolar</title>
+<answer>litio</answer>
+</question>
+
+<question id="q_007">
+<type>radio</type>
+<title>7.- ¿Cuál es el componente esencial para la efectividad del tratamiento de la fobia social?</title>
+<option>a) Entrenamiento en habilidades sociales.</option>
+<option>b) Exposición en vivo.</option>
+<option>c) Desensibilización sistemática.</option>
+<option>d) Entrenamiento en habilidades sociales y reestructuración cognitiva.</option>
+<option>e) Reestructuración cognitiva.</option>
+<answer>2</answer>
+</question>
+
+<question id="q_008">
+<type>radio</type>
+<title>8.- El término empleado para hacer referencia a cualquier agente ambiental que causa daño durante el período prenatal es:</title>
+<option>a) Vírico.</option>
+<option>b) Displásico.</option>
+<option>c) Teratógeno.</option>
+<option>d) Disgenésico.</option>
+<option>e) Trisómico.</option>
+<answer>3</answer>
+</question>
+
+<question id="q_009">
+<type>checkbox</type>
+<title>9.- ¿Cuáles de los siguientes se consideran trastornos del control de impulsos?</title>
+<option>a) Ludopatía.</option>
+<option>b) Tricotilomanía.</option>
+<option>c) Disartria.</option>
+<option>d) Onicofagia.</option>
+<option>e) Prosopagnosia.</option>
+<answer>1</answer>
+<answer>2</answer>
+<answer>4</answer>
+</question>
+
+<question id="q_010">
+<type>checkbox</type>
+<title>10.- ¿Qué partes están delimitadas por la cisura de Rolando?</title>
+<option>a) El lóbulo frontal.</option>
+<option>b) El lóbulo parietal.</option>
+<option>c) El lóbulo occipital</option>
+<option>d) El lóbulo temporal</option>
+<option>e) El cerebelo.</option>
+<answer>1</answer>
+<answer>2</answer>
+</question>
+
+</questions>
