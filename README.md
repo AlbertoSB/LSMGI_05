@@ -18,8 +18,8 @@ Por ejemplo, para una pregunta tipo SELECT podía extraer los enunciados del doc
 Lo único que puedo entregar es la parte de XSL con su respectivo XML. 
 Aquí pueden verse las tablas formateadas:
 - http://rawgit.com/AlbertoSB/LSMGI_05/master/questions.xml   
-- http://rawgit.com/AlbertoSB/LSMGI_05/master/questions2.xml   
-
+- http://rawgit.com/AlbertoSB/LSMGI_05/master/questions2.xml  
+  
 
 Llegados a este punto, no tengo muy claro que pueda entregar algo en el proyecto final, pero se intentará.   
 
